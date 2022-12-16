@@ -1,0 +1,37 @@
+body{
+    background-color:cornsilk;
+    font-size: 25px;
+}
+a:link {
+    color: red;
+    text-decoration: none;
+  }
+    a:visited {
+    color: black;
+  }
+    a:hover {
+    color:red;
+  }
+  a:active {
+    color: blue;
+  }
+  a{
+    
+    margin: 10px;
+  }
+  .name{
+    text-align: center;
+  }
+  hr{
+    border: 2px solid black;
+  }
+  .section1{
+    padding-right:10px;
+  }
+  q{
+    padding: 5px;
+  }
+  p{
+    text-align: center;
+    font-size: bold;
+  }
