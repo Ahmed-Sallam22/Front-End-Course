@@ -1,0 +1,50 @@
+body{
+    color: white;
+    background-color: black;
+    margin: 15%;
+}
+.main-title{
+    text-align: center;
+    color: grey;
+}
+.as{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    width: 90%;
+}
+.info{
+    margin-top: 15px;
+}
+.detail{
+    margin:11px;
+    background-color: rgb(56, 54, 54) ;
+    padding: 15px 15px;
+    box-shadow: 15px 15px 15px white;
+}
+.name2{
+    text-align: center;
+    font-size: 50px;
+    text-shadow: 3px 1px 5px #000000;
+}
+.a1{
+    color: red;
+
+}
+.inside{
+    font-size: 20px;
+}
+.res{
+    margin: 80px;
+    font-size: 20px;
+}
+a:link,a:visited{
+   text-decoration: none;
+background-color: white;
+   color:red;
+   padding: 14px 25px;
+
+}
+a:hover,a:active{
+    color: green;
+}
