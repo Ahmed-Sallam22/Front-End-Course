@@ -289,41 +289,118 @@ padding-right: 50px;
     .details-map ul  p{
         display: inline;
     }
-/* footer{
+
+    footer{
+        width: 100%;
+        height: auto;
+    }
+    
+    .footer-content{
+        text-align: left;
+        background-color: #403d38;
+        padding: 50px;
+    }
+    .text{
+        float: left;
+        width: 24%;
+        font-size: 18px;
+        margin-bottom: 5px;
+        margin-top: 5px;
+        height: auto;
+        padding: 0.5%;
+    
+    }
+    
+    .text h4{
+        color: aliceblue;
+    }
+    
+    .text ul li{
+        list-style: none;
+        color: #969696;
+        /* font-weight: bold; */
+        font-size: 20px;
+        line-height: 35px;
+        /* display: inline; */
+    }
+    
+    .as li i{
+        font-size: 30px;
+        font-weight: bold;
+        margin-right: -10px;
+    }
+    .as-last li i{
+        margin-right: 10px;
+    }
+    
+    ul li p{
+        font-size: 19px;
+        color: #969696;
+        display: inline;
+    }
+    .text ul li a{
+        text-decoration: none;
+        color: #969696;
+    }
+    .text ul li a:hover{
+    color: white;
+    }
+    .clr{
+        clear: both;
+    }
+
+.as li , .as-last li{
+    border-bottom-style: solid;
+    /* /* padding-left: 5px; */
+    padding-bottom: 5px; 
+    border-bottom-width: 0.5px;
+    border-bottom-color: #303030;
+}
+.footer-end{
+    background-color: #353330;
     text-align: center;
+    font-size: 12px;
+    height: auto;
+    padding-top: 50px;
+    padding-bottom: 50px
 }
-.footer-content{
+.footer-end img{
+    width: 12%;
+}
+.footer-end ul{
+    padding: 20px 0 50px;
+}
+.footer-end ul li{
+    list-style: none;
+    display: inline-block;
+}
+.footer-end ul li a{
+    font-size: 20px;
+    margin: 2px;
+    text-decoration: none;
+    border: 1px solid #403d38;
+    padding:12px;
     background-color: #403d38;
-     width: 100%;
-    height: auto; 
+    color: #969696;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
 }
-.footer-content h4{
+.fa-linkedin:hover{
+    background-color:#0082ca;
     color: white;
 }
-.text{
-    width:10%;
-    float: left;
-} */
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-.clr
-{
-    clear: both;
+.fa-facebook:hover{
+    background-color: #3b5998;
+    color: white;
+}
+.fa-google-plus:hover{
+    background-color: #dd4b39;
+    color: white;
+}
+.fa-twitter:hover{
+    background-color: #55acee;
+    color: white;
 }
