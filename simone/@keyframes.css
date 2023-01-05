@@ -1,0 +1,114 @@
+@keyframes typing {
+    0%{content:'|';}   
+    1%{content:'I|';}   
+    2%{content:"I|";}   
+    3%{content:"I'm|";}   
+    4%{content:"I'm S|";}   
+    5%{content:"I'm Si|";}   
+    6%{content:"I'm Sim|";}   
+    7%{content:"I'm simon|";}   
+    8%{content:"I'm simone|";}   
+    9%{content:"I'm simone o|";}   
+    10%{content:"I'm simone ol|";}   
+    11%{content:"I'm simone oliv|";}   
+    12%{content:"I'm simone olivia|";}   
+    13%{content:"I'm simone olivia |";}  
+    14%{content:"I'm simone olivia |";}   
+    15%{content:"I'm simone olivia|";}   
+    16%{content:"I'm simone olivi|";}   
+    17%{content:"I'm simone oliv|";}   
+    18%{content:"I'm simone oli|";}   
+    19%{content:"I'm simone ol|";}   
+    20%{content:"I'm simone o|";}   
+    21%{content:"I'm simone|";}   
+    22%{content:"I'm simon|";}   
+    23%{content:"I'm simo|";}   
+    24%{content:"I'm sim|";}   
+    25%{content:"I'm si|";}   
+    26%{content:"I'm s|";}   
+    27%{content:"I'm |";}   
+    28%{content:"I'm A|";}   
+    29%{content:"I'm A f|";}   
+    30%{content:"I'm A fr|";}   
+    31%{content:"I'm A fre|";}   
+    32%{content:"I'm A free|";}   
+    33%{content:"I'm A freel|";}   
+    34%{content:"I'm A freela|";}   
+    35%{content:"I'm A freelan|";}   
+    36%{content:"I'm A freelanc|";}   
+    37%{content:"I'm A freelance|";}   
+    38%{content:"I'm A freelancer|";}   
+    39%{content:"I'm A freelancer.|";}   
+    40%{content:"I'm A freelancer.|";}     
+    41%{content:"I'm A freelancer|";}   
+    42%{content:"I'm A freelance|";}   
+    43%{content:"I'm A freelanc|";}   
+    44%{content:"I'm A freelan|";}   
+    45%{content:"I'm A freela|";}   
+    46%{content:"I'm A freel|";}   
+    47%{content:"I'm A free|";}   
+    48%{content:"I'm A fre|";}   
+    49%{content:"I'm A fr|";}   
+    50%{content:"I'm A f|";}     
+    51%{content:"I'm A |";}     
+    52%{content:"I'm a p|";}   
+    53%{content:"I'm a ph|";}   
+    54%{content:"I'm a pho|";}   
+    55%{content:"I'm a phot|";}   
+    56%{content:"I'm a photo|";}   
+    57%{content:"I'm a photog|";}   
+    58%{content:"I'm a photogr|";}   
+    59%{content:"I'm a photogra|";}   
+    60%{content:"I'm a photograp|";}   
+    61%{content:"I'm a photograph|";}   
+    62%{content:"I'm a photographe|";}   
+    63%{content:"I'm a photographer|";}   
+    64%{content:"I'm a photographer.|";}   
+    65%{content:"I'm a photographer|";}  
+    66%{content:"I'm a photographe|";}  
+    67%{content:"I'm a photograph|";}  
+    68%{content:"I'm a photograp|";}  
+    69%{content:"I'm a photogra|";}  
+    70%{content:"I'm a photogr|";}  
+    71%{content:"I'm a photog|";}  
+    72%{content:"I'm a photo|";}  
+    73%{content:"I'm a phot|";}  
+    74%{content:"I'm a pho|";}  
+    75%{content:"I'm a ph|";}  
+    76%{content:"I'm a p|";}  
+    77%{content:"I'm a |";} 
+    78%{content:"I'm a d|";} 
+    79%{content:"I'm a de|";} 
+    80%{content:"I'm a des|";} 
+    81%{content:"I'm a desi|";} 
+    82%{content:"I'm a desig|";} 
+    83%{content:"I'm a design|";} 
+    84%{content:"I'm a designe|";} 
+    85%{content:"I'm a designer|";} 
+    86%{content:"I'm a designer.|";} 
+    87%{content:"I'm a designer.|";} 
+    88%{content:"I'm a designer|";} 
+    89%{content:"I'm a designe|";} 
+    90%{content:"I'm a design|";} 
+    91%{content:"I'm a desig|";} 
+    92%{content:"I'm a desi|";} 
+    93%{content:"I'm a des|";} 
+    94%{content:"I'm a de|";} 
+    95%{content:"I'm a d|";} 
+    96%{content:"I'm a |";} 
+    97%{content:"I'm a|";} 
+    98%{content:"I'|";} 
+    99%{content:"|";} 
+    100%{content:"|";}   
+}
+@keyframes scroll{
+    to{
+      opacity: .2;
+      transform: translateY(65px);
+      -webkit-transform: translateY(65px);
+      -moz-transform: translateY(65px);
+      -ms-transform: translateY(65px);
+      -o-transform: translateY(65px);
+}
+  } 
+  
