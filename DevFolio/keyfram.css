@@ -1,0 +1,89 @@
+@keyframes typing {
+    0%{content:'|';}   
+    1%{content:'C|';}   
+    2%{content:"CE|";}   
+    3%{content:"CEO|";}   
+    4%{content:"CEO D|";}   
+    5%{content:"CEO De|";}   
+    6%{content:"CEO Dev|";}   
+    7%{content:"CEO DevF|";}   
+    8%{content:"CEO DevFo|";}   
+    9%{content:"CEO DeFoli|";}   
+    10%{content:"CEO DeFolio|";}   
+    14%{content:"CEO DeFolio|";}      
+    15%{content:"CEO DeFo|";}   
+    16%{content:"CEO De|";}   
+    17%{content:"CEO |";}   
+    18%{content:"CE|";}   
+    19%{content:"|";}   
+    20%{content:"W|";}   
+    21%{content:"We|";}   
+    22%{content:"Web|";}   
+    22%{content:"Web D|";}   
+    23%{content:"Web De|";}   
+    24%{content:"Web Dev|";}   
+    25%{content:"Web Deve|";}   
+    26%{content:"Web Devel|";}   
+    27%{content:"Web Develo|";}   
+    28%{content:"Web Develop|";}   
+    29%{content:"Web Develope|";}   
+    30%{content:"Web Developer|";}   
+    34%{content:"Web Developer|";}   
+    35%{content:"Web Develo|";}   
+    36%{content:"Web De|";}   
+    37%{content:"Web Des|";}   
+    38%{content:"Web Dei|";} 
+    39%{content:"Web Desig|";}   
+    40%{content:"Web Design|";}   
+    41%{content:"Web Designe|";}   
+    42%{content:"Web Designer|";}   
+    46%{content:"Web Designer|";}   
+    47%{content:"Web Desig|";}   
+    48%{content:"Web De|";}   
+    49%{content:"Web|";}   
+    50%{content:"|";}   
+    51%{content:"F|";}   
+    52%{content:"Fr|";}   
+    53%{content:"Fro|";}   
+    54%{content:"Fron|";}   
+    55%{content:"Front|";}   
+    56%{content:"Fronte|";}   
+    57%{content:"Fronten|";}  
+    58%{content:"Frontend|";}  
+    59%{content:"Frontend |";}  
+    60%{content:"Frontend D|";}  
+    61%{content:"Frontend De|";}  
+    62%{content:"Frontend Dev|";}  
+    63%{content:"Frontend Deve|";}  
+    64%{content:"Frontend Devel|";}  
+    65%{content:"Frontend Develo|";}  
+    66%{content:"Frontend Develop|";}  
+    67%{content:"Frontend Develope|";}  
+    68%{content:"Frontend Developer|";}  
+    71%{content:"Frontend Developer|";} 
+    72%{content:"Frontend Deve|";} 
+    73%{content:"Frontend D|";} 
+    74%{content:"Frontend|";} 
+    75%{content:"Front|";} 
+    76%{content:"Fr|";} 
+    77%{content:"|";} 
+    78%{content:"G|";} 
+    79%{content:"Gra|";} 
+    80%{content:"Graph|";} 
+    81%{content:"Graphi|";} 
+    82%{content:"Graphic |";} 
+    83%{content:"Graphic De|";} 
+    84%{content:"Graphic Desi|";} 
+    85%{content:"Graphic Design|";} 
+    86%{content:"Graphic Designer|";} 
+    91%{content:"Graphic Designer|";} 
+    92%{content:"Graphic Design|";} 
+    93%{content:"Graphic Des|";} 
+    94%{content:"Graphic |";} 
+    95%{content:"Graphi|";} 
+    96%{content:"Grap|";} 
+    97%{content:"Gr|";} 
+    98%{content:"|";} 
+    98%{content:"|";} 
+    100%{content:"|";}   
+}
