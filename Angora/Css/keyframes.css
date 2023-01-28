@@ -1,0 +1,69 @@
+@keyframes typing{
+    0%{content:'Larry Daniels';}
+    18.5%{content:'Larry Daniels';}
+    18.9%{content:'Larry Daniel';}
+    19.3%{content:'Larry Danie';}
+    19.7%{content:'Larry Dani';}
+    20.1%{content:'Larry Dan';}
+    20.5%{content:'Larry Da';}
+    20.9%{content:'Larry D';}
+    21.3%{content:'Larry ';}
+    21.7%{content:'Larry';}
+    22.1%{content:'Larr';}
+    22.5%{content:'Lar';}
+    22.9%{content:'La';}
+    23.3%{content:'L';}
+    23.7%{content:'';}
+    25.3%{content:'';}
+    25.7%{content:'D';}
+    26.1%{content:'De';}
+    26.5%{content:'Dev';}
+    26.9%{content:'Deve';}
+    27.3%{content:'Devel';}
+    27.7%{content:'Develo';}
+    28.1%{content:'Develop';}
+    28.5%{content:'Develope';}
+    28.9%{content:'Developer';}
+    47.4%{content:'Developer';}
+    47.8%{content:'Develope';}
+    48.2%{content:'Develop';}
+    48.6%{content:'Develo';}
+    49%{content:'Devel';}
+    49.4%{content:'Dev';}
+    49.8%{content:'De';}
+    50.2%{content:'D';}
+    50.6%{content:'';}
+    52.2%{content:'';}
+    52.6%{content:'D';}
+    53%{content:'De';}
+    53.4%{content:'Des';}
+    53.8%{content:'Desi';}
+    54.2%{content:'Desig';}
+    54.6%{content:'Design';}
+    55%{content:'Designe';}
+    55.4%{content:'Designer';}
+    73.9%{content:'Designer';}
+    74.3%{content:'Designe';}
+    74.7%{content:'Design';}
+    75.1%{content:'Desig';}
+    75.5%{content:'Desi';}
+    75.9%{content:'Des';}
+    75.1%{content:'De';}
+    75.5%{content:'D';}
+    75.9%{content:'';}
+    77.5%{content:'';}
+    77.9%{content:'L';}
+    78.3%{content:'La';}
+    78.7%{content:'Lar';}
+    79.1%{content:'Larr';}
+    79.5%{content:'Larry';}
+    80.9%{content:'Larry ';}
+    81.3%{content:'Larry D';}
+    81.7%{content:'Larry Da';}
+    82.1%{content:'Larry Dan';}
+    82.5%{content:'Larry Dani';}
+    82.9%{content:'Larry Danie';}
+    83.3%{content:'Larry Daniel';}
+    83.7%{content:'Larry Daniels';}
+    100%{content:'Larry Daniels';}
+}
