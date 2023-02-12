@@ -38,15 +38,20 @@ function clearForm(){
 }
 
 function validataUser(){
-    var regax=/^([a-zA-Z0-9@.!#$%^&*]+)$/
+    var regax=/^([a-zA-Z0-9@.!#$%^&* ]+)$/
     if(regax.test(userName.value)==true && regax.test(email.value)==true && regax.test(password.value)==true ){
         inputAlert.classList.replace('d-block','d-none');
         inputAlertSuccess.classList.replace('d-none','d-block');
+        window.location.href="Home.html"
         inputAlertemailExists.classList.replace('d-block','d-none');
         return true
     }
     else{
         inputAlert.classList.replace('d-none','d-block');
+        inputAlertSuccess.classList.replace('d-block','d-none');
+        inputAlertemailExists.classList.replace('d-block','d-none');
+
+
         return false;
     }
 }
