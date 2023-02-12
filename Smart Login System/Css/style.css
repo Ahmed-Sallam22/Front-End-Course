@@ -1,0 +1,63 @@
+body{
+    background: rgb(36, 53, 63);
+    font-family: sans-serif;
+}
+h1{
+    color: rgb(23, 162, 184);
+}
+@media screen and (max-width:600px) {
+    .container{
+        width: 75% !important;
+    }
+}
+.container,input{
+    background: transparent !important;
+}
+input{
+    color: white !important;
+}
+input::placeholder{
+    color:#a9acaf !important;
+
+}
+#NAV{
+    width: 100% !important;
+}
+p , a{
+    color: white;
+    text-decoration: none;
+    font-size: 17px;
+}
+p a:hover{
+    text-decoration: underline;
+}
+nav .container{
+    box-shadow: 0 0 0;
+}
+.container{
+    box-shadow: 0px 0px 40px black;
+}
+.form-control:focus{
+    box-shadow: none !important;
+}
+.btn{
+    color: rgb(23, 162, 184) !important;
+}
+button:hover .log-out, .rege button:hover ,.btn:hover{
+    color: white !important;
+}
+nav{
+    box-shadow: 0 0 15px 1px black;
+}
+.home{
+    margin-top: 100px !important;
+}
+#text-secondary
+{
+    color: grey !important;
+}
+#text-secondary:hover{
+    color: white !important;
+}
+
+
